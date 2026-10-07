@@ -1,0 +1,6 @@
+{
+  "name": "Linklaters Sustainable Finance Tracker",
+  "description": "Global Sustainable Finance Tracker monitoring ESG regulations, disclosure obligations, green taxonomies, anti-greenwashing rules, and milestones across key global jurisdictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
